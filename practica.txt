@@ -1,0 +1,44 @@
+<html>
+<head>
+<title>Tabla</title>
+<head>
+</head>
+<body>
+
+<h2>Tabla</h2>
+<p>Esta es una tabla de tres columnas</p>
+<hr>
+<table>
+<tr>
+
+<td>Celda 1 </td>
+<td>celda 2</td>
+<td>celda 3</td>
+
+
+</tr> 
+<tr>
+
+<td>Celda 1 </td>
+<td>celda 2</td>
+<td>celda 3</td>
+
+
+</tr> 
+<tr>
+
+<td>Celda 1 </td>
+<td>celda 2</td>
+<td>celda 3</td>
+
+
+</tr> 
+</table>
+
+
+
+
+
+
+</body>
+</html>

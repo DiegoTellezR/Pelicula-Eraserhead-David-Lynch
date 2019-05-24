@@ -1,0 +1,106 @@
+
+<html>
+     <head>
+
+            <title>Delegaciones de la CDMX</title>
+     </head>
+     <body bgcolor="PINK">
+
+           <h2>
+           <P>
+           <A HREF=http//www.cultura.df.gob.mx><IMG SRC=mapa_df.GIF
+width=200 HEIGHT=251 BORDER=8 ALIGN=MIDDLE>
+</A>
+&nbsp;&nbsp;
+<I>
+<font size=6 color=blue>
+"Delegaciones de la Ciudad de Mexico"
+</FONT>
+
+</i>
+</p>
+</h2>
+<HR SIZE=10 COLOR=RED>
+<TABLE BORDER=6 align=center>
+<caption>
+<b>En la tabla se describen algunos detalles de 4 Delegaciones</b>
+</CAPTION>
+<TR>
+
+<TH>Localizacion</th>
+<th>Delegacion</th>
+<th>Caracteristicas</th>
+<th>Logotipo</th>
+</tr>
+<tr>
+<td><IMG SRC=azcapotzalco.GIF WIDTH=150 HEIGHT=200></TD>
+<TD BGCOLOR=YELLOW ALIGN=CETER>
+<p><b><U><A HREF=Azcapotzalco.html>AZCAPOTZALCO</U></B></P>
+</TD>
+<TD BGCOLOR=beige>
+Superficie:33.66 km <sup>2</sup>
+<br>
+Gentilicio:Chintolo
+</td>
+<td bgcolor=WHITE>
+<IMG SRC=logoazca.jpg WIDTH=100 HEIGTH=150>
+</TD>
+</TR>
+<TR>
+<td>
+<IMG SRC=cuauhtemoc.GIF WIDTH=150 HEIGHT=200>
+</TD>
+<TD BGCOLOR=YELLOW ALIGN=CENTER>
+
+<P><B><U><A HREF=Cuauhtemoc.html>CUAUHTEMOC</U></B></P>
+</TD>
+<TD BGCOLOR=BEIGE>
+Superficie:32.40<sup>2</sup>
+<br>
+Poblacion:521 348 Hab.
+<br>
+Gentilicio:
+</td><td bgcolor=WHITE>
+<IMG SRC=logocuauhtemoc.jpg WIDTH=100 HEIGHT=150>
+</TD>
+</TR>
+<TR>
+<TD>
+<IMG SRC=gustavomadero.GIF WIDTH=150 HEIGTH=200>
+</TD>
+<TD BGCOLOR=YELLOW ALIGN=CENTER>
+<P><B><U><a href=GustavoAMadero.html>GUSTAVO A. MADERO</U></B></P>
+</TD>
+<TD BGCOLOR=BEIGE>
+Superficie:94.07 km <sup>2</sup>
+<br>Poblacion:1 193 161 Hab.
+<br>
+Gentilicio:Maderense
+</td>
+<td bgcolor=white>
+<img src=logogam.jpg width=100 heigth=150>
+</td>
+</tr>
+<tr>
+<td>
+<IMG SRC=Xochimilco.GIF WIDTH=150 hEIGHT=200>
+</TD>
+<TD BGCOLOR=YELLOW ALIGN=CENTER>
+<p><b><u><a href=Xochimilco.html>XOCHIMILCO</u></b></p>
+</td>
+<td bgcolor=beige>
+Superficie:118 km <SUP>2</SUP>
+<BR>
+Poblacion:404 458 Hab.
+<br>
+Gentilicio:Xochimilquense
+</td>
+<td bgcolor=white>
+<img src=logoxochimilco.jpg width=100 heigt=150>
+</td>
+</tr>
+</table>
+
+          </font>
+      </body>
+</html>
